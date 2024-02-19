@@ -1,4 +1,4 @@
-public class extendedcalci {
+public class extendedcalci extends calci{
     void square(int a) {
         System.out.println("Square of number is : " + (a * a));
     }
